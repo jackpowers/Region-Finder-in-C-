@@ -1,0 +1,3 @@
+/Users/admin/Projects/RegionFinder2/RegionFinder2/bin/Release/RegionFinder2.exe
+/Users/admin/Projects/RegionFinder2/RegionFinder2/obj/x86/Release/RegionFinder2.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/RegionFinder2/RegionFinder2/obj/x86/Release/RegionFinder2.exe
